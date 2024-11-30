@@ -1,0 +1,5 @@
+defaultProject: silver-spark-443316-d5
+defaultLocation: northamerica-northeast2
+defaultDataset: testdb23
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0

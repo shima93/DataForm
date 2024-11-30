@@ -1,0 +1,8 @@
+config {
+    type: "view",
+    schema: "testdb23"
+}
+
+SELECT
+  "Test" AS name,
+  "Test 2" AS lastname
